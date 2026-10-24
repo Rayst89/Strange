@@ -1,0 +1,32 @@
+﻿  Hooked.cpp
+c:\users\устин\desktop\strangeh00k\strangeproject\strangeproject\valve.hpp(890): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\устин\desktop\strangeh00k\strangeproject\strangeproject\hooked.cpp(51): warning C4005: CONTENTS_UNUSED6: изменение макроопределения
+  c:\users\устин\desktop\strangeh00k\strangeproject\strangeproject\valve.hpp(39): note: см. предыдущее определение "CONTENTS_UNUSED6"
+c:\users\устин\desktop\strangeh00k\strangeproject\strangeproject\hooked.cpp(154): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\устин\desktop\strangeh00k\strangeproject\strangeproject\hooked.cpp(159): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\устин\desktop\strangeh00k\strangeproject\strangeproject\hooked.cpp(190): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\устин\desktop\strangeh00k\strangeproject\strangeproject\hooked.cpp(470): warning C4305: инициализация: усечение из "int" в "bool"
+c:\users\устин\desktop\strangeh00k\strangeproject\strangeproject\hooked.cpp(671): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\устин\desktop\strangeh00k\strangeproject\strangeproject\hooked.cpp(759): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\устин\desktop\strangeh00k\strangeproject\strangeproject\hooked.cpp(1416): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\устин\desktop\strangeh00k\strangeproject\strangeproject\hooked.cpp(1428): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\устин\desktop\strangeh00k\strangeproject\strangeproject\hooked.cpp(1440): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\устин\desktop\strangeh00k\strangeproject\strangeproject\hooked.cpp(1454): warning C4244: аргумент: преобразование "float" в "uint8_t", возможна потеря данных
+c:\users\устин\desktop\strangeh00k\strangeproject\strangeproject\hooked.cpp(1514): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\устин\desktop\strangeh00k\strangeproject\strangeproject\hooked.cpp(1518): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\устин\desktop\strangeh00k\strangeproject\strangeproject\hooked.cpp(1522): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\устин\desktop\strangeh00k\strangeproject\strangeproject\hooked.cpp(1526): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\устин\desktop\strangeh00k\strangeproject\strangeproject\hooked.cpp(1532): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\устин\desktop\strangeh00k\strangeproject\strangeproject\hooked.cpp(1764): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\устин\desktop\strangeh00k\strangeproject\strangeproject\hooked.cpp(1834): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\устин\desktop\strangeh00k\strangeproject\strangeproject\hooked.cpp(1835): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\устин\desktop\strangeh00k\strangeproject\strangeproject\hooked.cpp(1840): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\устин\desktop\strangeh00k\strangeproject\strangeproject\hooked.cpp(2043): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\устин\desktop\strangeh00k\strangeproject\strangeproject\hooked.cpp(2046): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\устин\desktop\strangeh00k\strangeproject\strangeproject\hooked.cpp(2027): warning C4101: data: неиспользованная локальная переменная
+  Создание кода
+  88 of 4635 functions ( 1.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    14 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  StrangeProject.vcxproj -> C:\Users\Устин\Desktop\StrangeH00K\StrangeProject\Debug\StrangeProject.dll

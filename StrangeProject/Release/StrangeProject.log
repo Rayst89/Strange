@@ -1,0 +1,18 @@
+﻿  Renderer.cpp
+C:\Users\Устин\Desktop\Trash\StrangeProject\StrangeProject\Renderer.cpp(190,17): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Устин\Desktop\Trash\StrangeProject\StrangeProject\Renderer.cpp(190,12): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Устин\Desktop\Trash\StrangeProject\StrangeProject\Renderer.cpp(191,15): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Устин\Desktop\Trash\StrangeProject\StrangeProject\Renderer.cpp(191,12): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Устин\Desktop\Trash\StrangeProject\StrangeProject\Renderer.cpp(192,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Устин\Desktop\Trash\StrangeProject\StrangeProject\Renderer.cpp(192,14): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Устин\Desktop\Trash\StrangeProject\StrangeProject\Renderer.cpp(193,19): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Устин\Desktop\Trash\StrangeProject\StrangeProject\Renderer.cpp(193,14): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Устин\Desktop\Trash\StrangeProject\StrangeProject\Renderer.cpp(228,16): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Устин\Desktop\Trash\StrangeProject\StrangeProject\Renderer.cpp(228,12): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Устин\Desktop\Trash\StrangeProject\StrangeProject\Renderer.cpp(229,16): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Устин\Desktop\Trash\StrangeProject\StrangeProject\Renderer.cpp(229,12): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 4516 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  StrangeProject.vcxproj -> C:\Users\Устин\Desktop\Trash\StrangeProject\Release\StrangeProject.dll
